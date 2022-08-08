@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # ETC
 sdfsdfsdfsdfsdfsadf
+abcdefg
+12345
 =======
 # test
 # TEST_shna_1
